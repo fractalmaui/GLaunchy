@@ -1,0 +1,17 @@
+Resources Folder: TopLevel:
+Here's what you should see:
+res/ folder..
+drawable/
+        gkbkgd.png
+        oog2_impact_t.png
+        gkbkgd.png
+        ic_glass_logo.png
+values/
+       colors.xml
+       dimens.xml
+       strings.xml
+       styles.xml
+xml/
+       voice_trigger.xml
+       
+       
